@@ -14,15 +14,50 @@ This repo exists because the main `TODO-ROW-ORG` repository is private and propr
 
 ```
 screenshots/
-  PLACEHOLDER-hook-interaction-badges.gif
-  PLACEHOLDER-hook-vr-blueprint.gif
-  PLACEHOLDER-hook-flow-blueprint.gif
-  PLACEHOLDER-hook-quick-load-app.gif
-  ... (see the full list and exact filenames in the main repo's
-      docs/internal/GIF_ASSET_CHECKLIST.md)
+  todo-row-salesforce-object-tabs-overview.gif
+  todo-row-salesforce-validation-rule-schema.gif
+  todo-row-salesforce-soql-jump-to-source.gif
+  todo-row-salesforce-apex-jump-to-source.gif
+  todo-row-salesforce-trigger-jump-to-source.gif
+  todo-row-salesforce-lwc-jump-to-source.gif
+  todo-row-salesforce-flow-schema.gif
+  todo-row-salesforce-field-filter-by-letter.gif
+  todo-row-salesforce-locked-fields-filter.gif
+  todo-row-salesforce-open-related-object-by-connector.gif
+  todo-row-salesforce-load-related-object-by-connector.gif
+  todo-row-salesforce-load-related-object-and-build-schema.gif
+  todo-row-salesforce-auto-arrange-object-schema.gif
+  todo-row-salesforce-jump-between-objects-by-connector.gif
+  todo-row-salesforce-show-all-related-objects.gif
+  todo-row-salesforce-hide-related-objects.gif
+  todo-row-salesforce-object-explorer.gif
+  todo-row-salesforce-quick-load-metadata.gif
+  todo-row-salesforce-quick-load-app-schema.gif
+  todo-row-salesforce-get-over-here-object-pull.gif
+  todo-row-salesforce-reverse-related-objects.gif
+  todo-row-salesforce-jump-to-org-object.gif
+  todo-row-salesforce-jump-to-org-validation-rule.gif
+  todo-row-salesforce-jump-to-org-flow.gif
+  todo-row-salesforce-jump-to-object-from-explorer.gif
+  todo-row-salesforce-validation-rule-status-and-type.gif
+  todo-row-salesforce-apex-and-flow-process-types.gif
+  todo-row-salesforce-load-related-from-org.gif
+  todo-row-salesforce-open-workspace.gif
+  todo-row-salesforce-app-metadata-map.gif
+  todo-row-salesforce-validation-rule-blueprint.png
+  todo-row-salesforce-flow-blueprint.png
+  todo-row-salesforce-object-relationship-map.png
+
+  # not recorded yet - referenced in the main repo but still broken-image
+  # placeholders there on purpose (see docs/internal/GIF_ASSET_CHECKLIST.md):
+  #   todo-row-salesforce-metadata-interaction-badges-preview.gif
+  #   todo-row-salesforce-metadata-interaction-badges.gif
+  #   todo-row-salesforce-org-connection.gif
+  #   todo-row-salesforce-setup-guide.png
+  #   todo-row-salesforce-retrieve-metadata.png
 ```
 
-File names match exactly what `README.md`/`USER_GUIDE.md` in the main repo reference - once files land here under their real names (drop the `PLACEHOLDER-` prefix only if you also update the reference in the main repo at the same time), the main repo's image links point at:
+File names match exactly what `README.md`/`USER_GUIDE.md` in the main repo reference. The main repo's image links point at:
 
 ```
 https://raw.githubusercontent.com/ShamansIT/todo-row-org-media/main/screenshots/<filename>
