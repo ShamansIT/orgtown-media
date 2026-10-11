@@ -14,6 +14,8 @@ This repo exists because the main `TODO-ROW-ORG` repository is private and propr
 
 ```
 screenshots/
+  todo-row-salesforce-metadata-interaction-badges-preview.gif
+  todo-row-salesforce-metadata-interaction-badges.gif
   todo-row-salesforce-object-tabs-overview.gif
   todo-row-salesforce-validation-rule-schema.gif
   todo-row-salesforce-soql-jump-to-source.gif
@@ -50,8 +52,6 @@ screenshots/
 
   # not recorded yet - referenced in the main repo but still broken-image
   # placeholders there on purpose (see docs/internal/GIF_ASSET_CHECKLIST.md):
-  #   todo-row-salesforce-metadata-interaction-badges-preview.gif
-  #   todo-row-salesforce-metadata-interaction-badges.gif
   #   todo-row-salesforce-org-connection.gif
   #   todo-row-salesforce-setup-guide.png
   #   todo-row-salesforce-retrieve-metadata.png
