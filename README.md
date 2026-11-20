@@ -1,6 +1,6 @@
 # OrgTown - Public Assets
 
-Public asset repository for the [OrgTown](https://marketplace.visualstudio.com/items?itemName=ToDoRow.orgtown) VS Code extension (source repo is private - proprietary software, see the extension's own `LICENSE`). Contains GIFs/screenshots and small public documentation files (never source code) referenced by the extension's `README.md` and the marketing website.
+Public asset repository for the [OrgTown](https://marketplace.visualstudio.com/items?itemName=OrgTown.orgtown) VS Code extension (source repo is private - proprietary software, see the extension's own `LICENSE`). Contains GIFs/screenshots and small public documentation files (never source code) referenced by the extension's `README.md` and the marketing website.
 
 ## USER_GUIDE.md
 

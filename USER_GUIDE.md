@@ -72,7 +72,7 @@ Canvas browsing, object exploration, and every tab on a node work fully offline,
 From the Extensions panel (`Ctrl/Cmd+Shift+X`): search "OrgTown", Install. Or from a terminal:
 
 ```
-code --install-extension ToDoRow.orgtown
+code --install-extension OrgTown.orgtown
 ```
 
 ## 2. Open the workspace
