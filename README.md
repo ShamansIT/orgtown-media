@@ -50,7 +50,7 @@ screenshots/
   orgtown-salesforce-validation-rule-blueprint.png
   orgtown-salesforce-flow-blueprint.png
   orgtown-salesforce-object-relationship-map.png
-  (+ 27 more "-still.png" thumbnails, one per GIF above used in the Feature gallery)
+  (+ 25 more "-still.png" thumbnails, one per GIF above used in the Feature gallery)
 
   # not recorded yet - referenced in the main repo but still broken-image
   # placeholders there on purpose (see docs/internal/GIF_ASSET_CHECKLIST.md):
