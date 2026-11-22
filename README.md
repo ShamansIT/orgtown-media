@@ -25,6 +25,7 @@ screenshots/
   orgtown-salesforce-flow-schema.gif
   orgtown-salesforce-field-filter-by-letter.gif
   orgtown-salesforce-locked-fields-filter.gif
+  orgtown-salesforce-field-type-icons-and-colors.gif
   orgtown-salesforce-open-related-object-by-connector.gif
   orgtown-salesforce-load-related-object-by-connector.gif
   orgtown-salesforce-load-related-object-and-build-schema.gif
